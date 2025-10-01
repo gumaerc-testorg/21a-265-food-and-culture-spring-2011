@@ -59,7 +59,7 @@ Schedule
 | 4 | Food and Power |   |
 | 5 | Food and Labor |   |
 | 6 | Recitation | Writing assignment 1 due |
-| 7 | Research | {{< br >}}{{< br >}}Library research overview{{< br >}}{{< br >}}Watch: [_Buffet_](http://www.buffetmovie.com/){{< br >}}{{< br >}} |
+| 7 | Research | {{< br >}}{{< br >}}Library research overview{{< br >}}{{< br >}}Watch: {{% resource_link "1aac886d-e36f-43ba-92be-1a0d6f936a22" "_Buffet_" %}}{{< br >}}{{< br >}} |
 | {{< fullwidth-cell >}}**The Meal: What Makes Good Food Good?**{{< /fullwidth-cell >}} | &nbsp; | &nbsp; |
 | 8 | Good food is culturally authentic | Watch: _The Meaning of Food_ (a PBS short) |
 | 9 | Recitation |   |
@@ -72,10 +72,10 @@ Schedule
 | 15 | Recitation | Writing assignment 3 due |
 | 16 | Good food produces and maintains relationships |   |
 | 17 | Recitation |   |
-| 18 | Good food is good for you | Guest lecture: [Xaq Frolich](http://web.mit.edu/hasts/graduate/frohlich.html) |
+| 18 | Good food is good for you | Guest lecture: {{% resource_link "ff2d014c-d737-4160-bfae-87ad4839d8f1" "Xaq Frolich" %}} |
 | 19 | Recitation |   |
 | 20 | Good food is handmade | {{< br >}}{{< br >}}Final paper proposal due{{< br >}}{{< br >}}Food tasting: Domestic Artisan Cheese{{< br >}}{{< br >}} |
-| 21 | Good food is sustainably produced | Guest lecture: [Canay Ozden](http://web.mit.edu/hasts/graduate/ozden.html) |
+| 21 | Good food is sustainably produced | Guest lecture: {{% resource_link "b488680a-264b-4eb3-be47-1ed0dd653b66" "Canay Ozden" %}} |
 | 22 | Recitation: Good food is traditional |   |
 | 23 | Any food is good food if you're hungry |   |
 | {{< fullwidth-cell >}}**Digestive**{{< /fullwidth-cell >}} | &nbsp; | &nbsp; |
